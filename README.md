@@ -1,4 +1,3 @@
-### Sandra
 Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em criar soluções tecnológicas que possam melhorar a vida das pessoas. 
 
 Atualmente sei um pouco de: 
