@@ -7,9 +7,10 @@ Atualmente sei um pouco de:
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
 </div>
 
-Gosto de aprender coisas novas e me desafiar. 
+Gosto de aprender coisas novas e me desafiar.
 
-No meu tempo livre, gosto de contemplar a natureza e ouvir música.
+
+
 
 
 
