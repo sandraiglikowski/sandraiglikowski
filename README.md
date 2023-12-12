@@ -1,12 +1,13 @@
 Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em criar soluções tecnológicas que possam melhorar a vida das pessoas. 
 
 Atualmente sei um pouco de: 
-<div style="display: inline">
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
-</div>
 
+<div style="display: inline">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />          
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />          
+</div>
+          
 Gosto de aprender coisas novas e me desafiar.
 
 
