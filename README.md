@@ -1,6 +1,6 @@
 # Hello world 🌎
 
-Olá, sou a Sandra e atualmente estou estudando Análise e Desenvolvimento de Sistemas na Unisul.
+Olá, sou a Sandra e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unisul.
 
 Tenho interesse em criar soluções tecnológicas que possam melhorar a vida das pessoas.
 Gosto de aprender coisas novas e me desafiar. 
