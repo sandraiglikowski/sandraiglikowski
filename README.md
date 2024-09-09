@@ -25,6 +25,7 @@ Gosto de aprender coisas novas e me desafiar.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandraiglikowski/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/iglisan)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandraiglikowski)
+[![DIO](https://img.shields.io/badge/DIO-007ACC?style=for-the-badge&logo=digital-inovation-one&logoColor=white)](https://www.dio.me/users/iglikowskicristiani)
 
 
 
